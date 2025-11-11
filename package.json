@@ -1,0 +1,4 @@
+// package.json (create this file in the root of your project)
+{
+  "type": "module"
+}
