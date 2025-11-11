@@ -1,6 +1,6 @@
-// api/webhook.js
+// api/webhook.
 
-let lastReceivedPayload = 'No webhook received yet.';
+let lastReceivedPayload = '';
 
 // A simple in-memory store for the last payload is sufficient for this example,
 // but for a real-world application, you would save this to a database (like MongoDB, Postgres, etc.)
